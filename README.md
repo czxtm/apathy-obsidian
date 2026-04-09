@@ -1,8 +1,15 @@
+<center>
+  <img style="margin: 0 auto; max-width: 576px;" width="1024" height="576" alt="preview" src="https://github.com/user-attachments/assets/0948bdae-b510-4dd8-9108-cb32613215bf" />  
+</center>
+
 # Apathy — Obsidian Theme
 
 A dark, sophisticated theme with deep purple-black backgrounds and vibrant neon-like accents. Part of the [Apathy theme family](https://github.com/czxtm/apathy-theme).
 
-![screenshot](screenshot.png)
+
+
+
+
 
 ## Features
 
