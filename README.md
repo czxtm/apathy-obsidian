@@ -1,6 +1,7 @@
-<center>
-  <img style="margin: 0 auto; max-width: 576px;" width="1024" height="576" alt="preview" src="https://github.com/user-attachments/assets/0948bdae-b510-4dd8-9108-cb32613215bf" />  
-</center>
+<p align="center" width="100%">
+    <img width="512" height="288" style="max-width: 288px; margin: 0 auto;" alt="Frame 12" src="https://github.com/user-attachments/assets/129405c2-27c8-4bd4-a4a7-2e6184b07faf" />
+</p>
+
 
 # Apathy — Obsidian Theme
 
